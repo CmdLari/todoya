@@ -15,22 +15,22 @@
       <children>
          <ImageView>
             <image>
-               <Image url="@../../../../assets/0_background.png" />
+               <Image url="@./assets/0_background.png" />
             </image>
          </ImageView>
          <ImageView layoutX="36.0" layoutY="34.0">
             <image>
-               <Image url="@../../../../assets/1_bg_0_title.png" />
+               <Image url="@assets/1_bg_0_title.png" />
             </image>
          </ImageView>
          <ImageView layoutX="36.0" layoutY="173.0">
             <image>
-               <Image url="@../../../../assets/1_bg_1_taskStats.png" />
+               <Image url="@assets/1_bg_1_taskStats.png" />
             </image>
          </ImageView>
          <ImageView fitHeight="491.0" fitWidth="246.0" layoutX="36.0" layoutY="276.0">
             <image>
-               <Image url="@../../../../assets/1_bg_2_tasks.png" />
+               <Image url="@assets/1_bg_2_tasks.png" />
             </image>
          </ImageView>
          <Text fx:id="text_tasksEntered" fill="#829ada" layoutX="278.0" layoutY="240.0" strokeType="OUTSIDE" strokeWidth="0.0">
@@ -50,29 +50,29 @@
          </Text>
          <ImageView fitHeight="491.0" fitWidth="464.0" layoutX="300.0" layoutY="276.0">
             <image>
-               <Image url="@../../../../assets/1_bg_3_tasksMap.png" />
+               <Image url="@assets/1_bg_3_tasksMap.png" />
             </image>
          </ImageView>
          <ImageView layoutX="64.0" layoutY="299.0">
             <image>
-               <Image url="@../../../../assets/1_bg_4_taskBG.png" />
+               <Image url="@assets/1_bg_4_taskBG.png" />
             </image>
          </ImageView>
          <ImageView fitHeight="342.0" fitWidth="191.0" layoutX="64.0" layoutY="350.0">
             <image>
-               <Image url="@../../../../assets/1_bg_4_taskBGListview.png" />
+               <Image url="@assets/1_bg_4_taskBGListview.png" />
             </image>
          </ImageView>
          <ImageView layoutX="63.0" layoutY="701.0">
             <image>
-               <Image url="@../../../../assets/1_bg_4_taskBG.png" />
+               <Image url="@assets/1_bg_4_taskBG.png" />
             </image>
          </ImageView>
          <ListView fx:id="taskList" layoutX="80.0" layoutY="366.0" prefHeight="310.0" prefWidth="160.0" />
          <TextField fx:id="taskEnter" layoutX="80.0" layoutY="307.0" prefHeight="25.0" prefWidth="160.0" />
          <ImageView fitHeight="170.0" fitWidth="113.0" layoutX="476.0" layoutY="436.0">
             <image>
-               <Image url="@../../../../assets/Einhorn4.png" />
+               <Image url="@assets/Einhorn4.png" />
             </image>
          </ImageView>
          <ComboBox fx:id="statemenu" layoutX="80.0" layoutY="709.0" prefHeight="25.0" prefWidth="160.0" />
